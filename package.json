@@ -1,6 +1,6 @@
 {
   "name": "remove-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove emojis from a string using the following good regex code: / (?! [* # 0-9] +) [\\ p {Emoji} \\ p {Emoji_Modifier} \\ p {Emoji_Component} \\ p {Emoji_Modifier_Base} \\ p { Emoji_Presentation}] / gu",
   "main": "index.js",
   "scripts": {
